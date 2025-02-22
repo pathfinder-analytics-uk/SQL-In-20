@@ -10,7 +10,6 @@ This repository contains a collection of SQL scripts designed to demonstrate the
 
 - **Data Manipulation Language.sql**  
   - **Insert Data:** Multiple examples showing how to insert rows into the `countries` and `continents` tables, including multi-row inserts and individual row inserts.
-  - **Update and Delete (Optional):** Additional examples to update or delete records from the tables.
 
 - **Data Query Language.sql**  
   - **Basic SELECT Queries:** Retrieve all rows and columns from the tables.
